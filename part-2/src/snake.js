@@ -227,11 +227,6 @@ Snake.prototype = {
         this.scale = scale;
         this.preferredDistance = 17 * this.scale;
 
-        //update edge lock location with p2 physics
-        this.edgeLock.localOffsetB = [
-            0, this.game.physics.p2.pxmi(this.head.width*0.5+this.edgeOffset)
-        ];
-
         //scale sections and their bodies
         for (var i = 0 ; i < this.sections.length ; i++) {
             var sec = this.sections[i];
