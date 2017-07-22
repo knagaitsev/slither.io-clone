@@ -36,7 +36,7 @@ Because this source code has a tutorial series built around it, I will only be a
 
 <a href="https://loonride.com/learn/phaser/slither-io-part-4">How to make Slither.io with Phaser: Part 4 - Collisions</a>
 
-**More Tutorials Coming Soon**
+*More Tutorials Coming Soon*
 
 
 ### Demo Links
@@ -49,4 +49,4 @@ Because this source code has a tutorial series built around it, I will only be a
 
 <a href="https://loonride.com/examples/slither-io/part-3/">Final Demo</a>
 
-**More Demos Coming Soon**
+*More Demos Coming Soon*
