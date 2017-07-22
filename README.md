@@ -1,4 +1,4 @@
-See the final demo of this series: <a href="https://loonride.com/examples/slither-io/slither-io/" target="_blank">https://loonride.com/examples/slither-io/slither-io/</a>
+See the final demo of this series: [link](https://loonride.com/examples/slither-io/slither-io/){:target="_blank"}
 
 Part 1 of the tutorial series: <a href="https://loonride.com/learn/phaser/slither-io-part-1" target="_blank">https://loonride.com/learn/phaser/slither-io-part-1</a>
 
