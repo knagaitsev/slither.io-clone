@@ -28,13 +28,13 @@ Because this source code has a tutorial series built around it, I will only be a
 
 ### Tutorial Links
 
-<a href="https://loonride.com/learn/phaser/slither-io-part-1">How to make Slither.io with Phaser: Part 1 - Introduction</a>
+<a href="https://loonride.com/learn/phaser/slither-io-part-1">How to make Slither.io with JavaScript: Part 1 - Introduction</a>
 
-<a href="https://loonride.com/learn/phaser/slither-io-part-2">How to make Slither.io with Phaser: Part 2 - Snake</a>
+<a href="https://loonride.com/learn/phaser/slither-io-part-2">How to make Slither.io with JavaScript: Part 2 - Snake</a>
 
-<a href="https://loonride.com/learn/phaser/slither-io-part-3">How to make Slither.io with Phaser: Part 3 - Players & Bots</a>
+<a href="https://loonride.com/learn/phaser/slither-io-part-3">How to make Slither.io with JavaScript: Part 3 - Players & Bots</a>
 
-<a href="https://loonride.com/learn/phaser/slither-io-part-4">How to make Slither.io with Phaser: Part 4 - Collisions</a>
+<a href="https://loonride.com/learn/phaser/slither-io-part-4">How to make Slither.io with JavaScript: Part 4 - Collisions</a>
 
 *More Tutorials Coming Soon*
 
