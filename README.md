@@ -36,6 +36,8 @@ Because this source code has a tutorial series built around it, I will only be a
 
 <a href="https://loonride.com/learn/phaser/slither-io-part-4">How to make Slither.io with JavaScript: Part 4 - Collisions</a>
 
+<a href="https://loonride.com/learn/phaser/slither-io-part-5">How to make Slither.io with JavaScript: Part 5 - Snake Eyes</a>
+
 *More Tutorials Coming Soon*
 
 
@@ -45,8 +47,10 @@ Because this source code has a tutorial series built around it, I will only be a
 
 <a href="https://loonride.com/examples/slither-io/part-3/">Part 3 Demo</a>
 
-<a href="https://loonride.com/examples/slither-io/part-3/">Part 4 Demo</a>
+<a href="https://loonride.com/examples/slither-io/part-4/">Part 4 Demo</a>
 
-<a href="https://loonride.com/examples/slither-io/part-3/">Final Demo</a>
+<a href="https://loonride.com/examples/slither-io/part-5/">Part 5 Demo</a>
+
+<a href="https://loonride.com/examples/slither-io/slither-io/">Final Demo</a>
 
 *More Demos Coming Soon*
