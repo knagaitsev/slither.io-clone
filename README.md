@@ -56,5 +56,3 @@ Because this source code has a tutorial series built around it, I will only be a
 <a href="https://loonride.com/examples/slither-io/part-6/">Part 6 Demo</a>
 
 <a href="https://loonride.com/examples/slither-io/slither-io/">Final Demo</a>
-
-*More Demos Coming Soon*
