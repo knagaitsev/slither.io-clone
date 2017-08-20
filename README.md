@@ -40,7 +40,7 @@ Because this source code has a tutorial series built around it, I will only be a
 
 <a href="https://loonride.com/learn/phaser/slither-io-part-6">How to make Slither.io with JavaScript: Part 6 - Snake Shadows</a>
 
-*More Tutorials Coming Soon*
+<a href="https://loonride.com/learn/phaser/slither-io-part-7">How to make Slither.io with JavaScript: Part 7 - Food & Conclusion</a>
 
 
 ### Demo Links
