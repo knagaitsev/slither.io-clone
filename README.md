@@ -2,7 +2,7 @@ See the final demo of this series: https://loonride.com/examples/slither-io/slit
 
 Part 1 of the tutorial series: https://loonride.com/learn/phaser/slither-io-part-1
 
-![alt text](https://firebasestorage.googleapis.com/v0/b/loon-ride-webpage.appspot.com/o/media%2F-Ko8Qs0e-jOLtO9GX2Va?alt=media&token=91332f8c-453b-438c-a89f-b65223529acc "how to make Slither.io Part 1")
+![alt text](https://loonride.com/asset/learn/slither-io/main.png "how to make Slither.io Part 1")
 
 
 ### About this Clone
