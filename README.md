@@ -2,6 +2,8 @@ See the final demo of this series: https://loonride.com/examples/slither-io/slit
 
 Part 1 of the tutorial series: https://loonride.com/learn/phaser/slither-io-part-1
 
+Video - Coding Slither.io in One Week with JavaScript: https://youtu.be/Nlo8LyO8HAQ
+
 ![alt text](https://loonride.com/asset/learn/slither-io/main.png "how to make Slither.io Part 1")
 
 
